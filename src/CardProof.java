@@ -1,6 +1,3 @@
-package components.Card;
-
-
 public class CardProof {
     private String suit;
     private String rank;

@@ -9,7 +9,7 @@ import org.junit.Test;
 import components.Card.Card;
 import components.Card.Card1L;
 
-public class CardKernelTest {
+public class CardTest {
 
     @Test
     public void testGetValue() {
