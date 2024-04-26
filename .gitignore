@@ -8,5 +8,5 @@
 ._*
 
 # Ignore bin and lib folders
-/bin/
+/bin/components/
 /lib/
