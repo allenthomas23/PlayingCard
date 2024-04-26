@@ -154,17 +154,21 @@ Take some time to fill them out honestly.
 > complete the portfolio project, how much better (or worse) do you think you
 > understand software development and why?
 
+This project has allowed for me to understand the reasoning behind making a component. Before if i had considered coding a deck of cards or some card of card game, I would not have thought about making a component like this. This project allows me to have a much better grasp of real world applications.
+
 <!-- TODO: discuss -->
 
 > Also, did the portfolio project surface any gaps in your own knowledge of
 > software development. If so, what are those gaps and how did you address them?
 
+It allowed me to understand that a component did not need to necesarily be data structures or similar things. By allowing us to pick whatever we wanted it showed the veratility of how components work in software development.
 <!-- TODO: discuss -->
 
 > Finally, as a part of completing the portfolio project, to what extent has
 > your perspective of software development changed, if at all? In other words,
 > is software development something you still enjoy? If not, why not?
 
+Software developing has become much more creative in my eyes. Since instead of viewing it as just a math based or logical thinking area, this showed me how you can code just about anything. I still want to be a software developer and this project only showed me more appealing aspects of the process.
 <!-- TODO: discuss -->
 
 ### Personal Growth
@@ -175,10 +179,20 @@ Take some time to fill them out honestly.
 > this process. Therefore, the first question is what skills did you pick up
 > through this process?
 
+During this project I learned a lot about how java is set up on vs code. I ran into a lot of problems with either the test cases not being recognized as test cases or the component not recognized as a as an object in the code. I had to do lots of research and learned a lot about the process. I learned about what needed to be uncluded in the classpath or how I need to add the libraries in project settings. I also learned a lot about how the location of the file is important when including import statement. Another thing i learned was creating well commented and documented code.
+
 <!-- TODO: discuss -->
 
 > The follow-up question is: could you rephrase these skills you picked up
 > as bullet points that you could put on a resume? Try it below.
+
+Proficient in setting up Java environments on Visual Studio Code (VS Code), adept at troubleshooting issues related to test case recognition and component identification.
+
+Skilled in resolving classpath and library inclusion challenges within project settings to ensure smooth execution of Java code.
+
+Experienced in managing file locations for import statements, understanding their significance in Java programming.
+
+Proficient in creating well-commented and documented code for improved readability and maintainability.
 
 <!-- TODO: discuss -->
 
@@ -186,6 +200,7 @@ Take some time to fill them out honestly.
 > In other words, do you now hate the topic you picked? Or, are you even more
 > interested in it? Both outcomes are valuable to your personal development.
 
+This project has made me like my trajectory a lot more. Especially because the other projects in this class were a lot less free, this has let me remember how fun and creative it can be to code. It has re lit my passion for coding again
 <!-- TODO: discuss -->
 
 > Finally, consider the skills you've picked up and your current career
@@ -193,6 +208,7 @@ Take some time to fill them out honestly.
 > career trajectory? Also, who are some mentors you could contact to help
 > you stay on your path?
 
+I want to continue to learn about how github works along with how the set up for projects work. It will be useful for any jobs or internships i will get in the future. I can contact prior managers or even friends who are already working in the same field to keep caught up.
 <!-- TODO: discuss -->
 
 ## Assignment Tasks
